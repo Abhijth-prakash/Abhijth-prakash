@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME" target="blank">
+  <a href="https://www.linkedin.com/in/abhijith-prakash-xz" target="blank">
     <img align="center"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          alt="linkedin"
