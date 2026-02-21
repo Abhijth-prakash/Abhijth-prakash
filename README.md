@@ -1,92 +1,81 @@
-<h1 align="center">I'm Abhijith</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h1 align="center">Hi there 👋, I'm Abhijith</h1>
+<h3 align="center">MERN Stack Developer 🚀</h3>
 
-- 💬 Ask me about **JavaScript, Node.js**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/abhijith-prakash-xz" target="blank">
-    <img align="center"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         alt="linkedin"
-         height="40"
-         width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-
-<a href="https://aws.amazon.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-</a>
-
+<p align="center">
+  Passionate about building modern web apps and solving real-world problems
 </p>
 
 ---
 
-## 🚀 Main Skills
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
+</p>
 
-<p align="left">
+### 👨‍💻 About Me
 
-<img height="60"
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-     alt="JavaScript" />
+- 🔥 MERN Stack Developer (MongoDB • Express • React • Node.js)
+- 💬 Ask me about **JavaScript, Node.js, React**
+- ☁️ Eager to learn about **Cloud Technologies & AI**
+- 🚀 Interested in scalable backend systems
+- 🎯 Goal: Become a world-class full-stack engineer
+- 🧠 Always curious and improving
+- 🌍 Open to remote opportunities
 
-<img height="60"
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-     alt="Node.js" />
+---
 
+### 🛠️ Tech Stack
+
+#### 🚀 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,redux" />
+</p>
+
+#### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,javascript" />
+</p>
+
+#### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+#### ☁️ Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,ps,ai" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak (Commits)
+### 📫 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Abhijth-prakash" target="blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+<a href="https://www.linkedin.com/in/abhijith-prakash-xz/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="mailto:abhijithprakashh@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
+
+---
 
 <p align="left">
   <img height="170"
        src="https://github-readme-streak-stats.herokuapp.com/?user=abhijth-prakash&theme=tokyonight"
        alt="GitHub streak" />
+</p>
+<p align="center">
+
+### ⚡ Fun Fact
+
+💡 I love turning ideas into real applications  
+☕ Coding + Music = Perfect Combo  
+
+---
+
+  ⭐ From <b>Abhijith</b> — Building the future with code
 </p>
