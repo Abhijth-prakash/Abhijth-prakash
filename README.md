@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Abhijith</h1>
-<h3 align="center">MERN Stack Developer 🚀</h3>
+<h3 align="center">Software Engineer 🚀</h3>
 
 <p align="center">
   Passionate about building modern web apps and solving real-world problems
